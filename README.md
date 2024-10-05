@@ -1,1 +1,2 @@
 # Profit-Report
+This Profit Report dashboard provides a summary of key financial metrics, including total, average, maximum, and minimum profits. It features visualizations that break down profit by manufacturer, city, country, and product category. The report also compares profits across regions (Asia, Europe, and North America) and includes filters for date and sales channels, allowing users to explore profit trends over time.
